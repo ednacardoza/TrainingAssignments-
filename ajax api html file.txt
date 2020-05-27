@@ -1,0 +1,14 @@
+ajax api html file
+
+
+<!DOCTYPE html>
+<html lang ="en">
+
+<head>
+	
+	<title>AJAX</title>
+</head>
+<body>
+
+</body>
+</html>
